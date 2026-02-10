@@ -1,8 +1,5 @@
 -- Creating the Table
 
-SELECT* 
-FROM etf_feb_6_2026;
-
 CREATE TABLE ETF_FEB_6_2026(
 Stock_Name VARCHAR(60),
 Ticker_Symbol VARCHAR(60),
