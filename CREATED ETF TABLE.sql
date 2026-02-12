@@ -243,7 +243,6 @@ ALTER TABLE etf_feb_6_2026
     SET currency ="USD"
     where Ticker_Symbol="VT";
 
--- I added another column 
 
 
 
